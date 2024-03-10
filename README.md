@@ -17,18 +17,6 @@
 
 3) BNC products 
 
-- BNC XML Edition
-The full BNC contains about 100 million words: 90% written, 10% orthographically transcribed spoken text. It is annotated with word-class information (part-of-speech, simplified word class) and lemmatized. The texts also contain detailed metatextual information. It is delivered in XML format.
-
-- BNC XML Edition is distributed on two DVDs. Users are welcome to try out the free XAIRA software, which is provided for installation on a stand-alone PC or on a Windows, Unix or OSX server. A copy of the XAIRA search program and the XAIRA index files for the BNC are provided.
-
-Full reference information about the BNC is provided in the Reference Guide for the British National Corpus (XML Edition). Information about the BNC project and the original creation of the corpus can be found at corpus creation page. The corpus can be downloaded from the OTA.
-
+- BNC XML Edition 
 - BNC Baby
-
-BNC Baby is a subset of the BNC. It consists of four one-million word samples, each compiled as an example of a particular genre: fiction, newspapers, academic writing and spoken conversation. The texts have the same annotation as the full corpus (part of speech, meta data, etc). The Reference Guide to BNC Baby [.pdf file] offers further information about this sample, such as a description of the design and information about the way in which it is encoded.
-The BNC Baby is in XML format. More information about the former release of BNC Baby on CD is available on the BNC Baby CD page. Nowadays, the corpus can be downloaded from the OTA.
-
 - BNC Sampler
-The BNC Sampler is a subset of the full BNC. It comprises two samples of written and spoken material of one million words each, compiled to mirror the composition of the full BNC as far as possible. The word-class annotation of the BNC Sampler texts has been carefully checked and manually corrected. The Sampler was first created at Lancaster University during the creation of the BNC. More information about the Sampler can be found in the users reference guide for the BNC Sampler: XML Edition
-
